@@ -1,1 +1,1 @@
-print('bhavya is gay')
+print('bhavya is good girl')
